@@ -1,0 +1,15 @@
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\bin\Debug\net6.0\adeudoSepa.exe
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\bin\Debug\net6.0\adeudoSepa.deps.json
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\bin\Debug\net6.0\adeudoSepa.runtimeconfig.json
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\bin\Debug\net6.0\adeudoSepa.dll
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\bin\Debug\net6.0\adeudoSepa.pdb
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\adeudoSepa.csproj.AssemblyReference.cache
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\adeudoSepa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\adeudoSepa.AssemblyInfoInputs.cache
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\adeudoSepa.AssemblyInfo.cs
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\adeudoSepa.csproj.CoreCompileInputs.cache
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\adeudoSepa.dll
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\refint\adeudoSepa.dll
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\adeudoSepa.pdb
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\adeudoSepa.genruntimeconfig.cache
+C:\Users\Trabajo\programacion-workspace\adeudoSepa\obj\Debug\net6.0\ref\adeudoSepa.dll
